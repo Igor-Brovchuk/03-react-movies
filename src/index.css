@@ -51,7 +51,6 @@
 }
 
 #root {
-  /* width: 1126px; */
   max-width: 1440px;
   margin: 0 auto;
   text-align: center;
@@ -64,11 +63,6 @@
 
 body {
   margin: 0;
-  display: flex;
-  min-width: 320px;
-  min-height: 100vh;
-  justify-content: center;
-  align-items: flex-start;
 }
 
 h1,
